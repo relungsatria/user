@@ -1,0 +1,2 @@
+userredis:
+  address: 'localhost:6379'

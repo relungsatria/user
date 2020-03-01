@@ -1,0 +1,5 @@
+userdb:
+    master: 'root:password@/user'
+    maxlifetime: 100
+    maxidle: 3
+    maxopen: 3
